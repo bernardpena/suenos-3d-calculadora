@@ -1,0 +1,11 @@
+# Dependencias
+node_modules/
+
+# Compilados y empaquetados pesados (>100MB para GitHub Releases)
+dist/
+release/
+
+# Archivos de sistema y logs
+.DS_Store
+*.log
+npm-debug.log*
